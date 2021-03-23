@@ -22,7 +22,7 @@ body{
   overflow: hidden;
 }
 .menu a{
-  font: menu;
+  font: "Arial";
   text-decoration: none;
   font-size: 18px;
   letter-spacing: 1px;
